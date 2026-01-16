@@ -1,7 +1,9 @@
 Puzzle Box Trial-and-Error Simulation
+
 A simple Python project that demonstrates trial-and-error learning using a puzzle box environment. The program simulates an agent randomly choosing actions and receiving rewards, inspired by basic reinforcement learning concepts.
 
 Description
+
 An agent interacts with a puzzle box.
 
 The agent can perform one of several predefined actions.
@@ -21,6 +23,7 @@ Randomized decision-making
 Introduction to reinforcement learning ideas
 
 How It Works
+
 1.A list of possible actions is defined.
 
 2.One action is marked as the rewarding action.
